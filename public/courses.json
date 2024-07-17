@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "course_img": "https://i.ibb.co/mXkmhq7/python.jpg",
+    "course_title": "OOP in Python",
+    "course_details": "Learn object-oriented programming in Python, covering classes, objects, inheritance, and polymorphism.",
+    "course_price": 49.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 2,
+    "course_img": "https://i.ibb.co/bb53J4P/mysql.png",
+    "course_title": "Database Management by MySQL",
+    "course_details": "Master MySQL for effective database management. Learn queries, joins, and database design principles.",
+    "course_price": 39.99,
+    "credit_hour": 4
+  },
+  {
+    "id": 3,
+    "course_img": "https://i.ibb.co/XJHdkBC/c.jpg",
+    "course_title": "C Programming",
+    "course_details": "Understand the fundamentals of C programming, including syntax, data types, and memory management.",
+    "course_price": 59.99,
+    "credit_hour": 5
+  },
+  {
+    "id": 4,
+    "course_img": "https://i.ibb.co/F6CnyDW/algorithm.jpg",
+    "course_title": "Algorithms",
+    "course_details": "Study essential algorithms and data structures, focusing on sorting, searching, and complexity analysis.",
+    "course_price": 69.99,
+    "credit_hour": 4
+  },
+  {
+    "id": 5,
+    "course_img": "https://i.ibb.co/wSwkYTZ/c1.jpg",
+    "course_title": "C++ Programming",
+    "course_details": "Learn C++ programming, covering syntax, object-oriented concepts, and standard library usage.",
+    "course_price": 79.99,
+    "credit_hour": 6
+  },
+  {
+    "id": 6,
+    "course_img": "https://i.ibb.co/1qHYryT/soft.jpg",
+    "course_title": "Software Engineering",
+    "course_details": "Explore software engineering principles, including software development life cycle, methodologies, and best practices.",
+    "course_price": 49.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 7,
+    "course_img": "https://i.ibb.co/PNm9dYc/logic.jpg",
+    "course_title": "Logic Building",
+    "course_details": "Develop logical thinking and problem-solving skills. Learn to break down complex problems and design solutions.",
+    "course_price": 89.99,
+    "credit_hour": 5
+  },
+  {
+    "id": 8,
+    "course_img": "https://i.ibb.co/6Pmp1Qq/data.jpg",
+    "course_title": "Data Structure",
+    "course_details": "Understand data structures such as arrays, linked lists, stacks, queues, and trees for efficient data management.",
+    "course_price": 39.99,
+    "credit_hour": 3
+  },
+  {
+    "id": 9,
+    "course_img": "https://i.ibb.co/ZM1qpNd/aws.jpg",
+    "course_title": "Amazon Web Service",
+    "course_details": "Learn AWS services and cloud computing concepts. Covers EC2, S3, and AWS management tools.",
+    "course_price": 99.99,
+    "credit_hour": 4
+  }
+]
