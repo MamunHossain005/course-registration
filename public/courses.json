@@ -10,7 +10,7 @@
   {
     "id": 2,
     "course_img": "https://i.ibb.co/bb53J4P/mysql.png",
-    "course_title": "Database Management by MySQL",
+    "course_title": "Database by MySQL",
     "course_details": "Master MySQL for effective database management. Learn queries, joins, and database design principles.",
     "course_price": 39.99,
     "credit_hour": 4
